@@ -19,8 +19,8 @@ class UserController(private val userService: UserService) {
         return userService.findById(UUID.fromString(id))
     }
 
-    @Get("/")
-    fun getAll(id: String): Map<UUID, User> {
+    @Get
+    fun getAll(): Map<UUID, User> {
         return userService.findAll()
     }
 
