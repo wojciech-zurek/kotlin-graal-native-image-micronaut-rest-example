@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: graal.micronaut.rest.example
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
