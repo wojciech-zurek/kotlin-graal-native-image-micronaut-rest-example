@@ -4,9 +4,13 @@ kotlin graal native image micronaut reactive rest example
 
 ## More info
 Kotlin: https://kotlinlang.org/
+
 Micronaut: https://micronaut.io/
+
 GraalVm https://www.graalvm.org/
+
 Native image: https://www.graalvm.org/docs/reference-manual/native-image/
+
 RxJava2: https://github.com/ReactiveX/RxJava
 
 ## Download
